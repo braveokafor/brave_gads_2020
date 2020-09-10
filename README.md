@@ -10,49 +10,55 @@
 </details>
 
 <details>
-  <summary>Lab 2: Google Cloud Fundamentals: Getting Started with GKE.</summary>
+  <summary>Lab 2: Google Cloud Fundamentals: Getting Started with Deployment Manager and Cloud Monitoring.</summary>
+  <img src="screenshots/Getting Started with Deployment Manager and Cloud Monitoring.png">
+</details>
+
+<details>
+  <summary>Lab 3: Google Cloud Fundamentals: Getting Started with GKE.</summary>
   <img src="screenshots/Getting Started with GKE.png">
 </details>
 
 <details>
-  <summary>Lab 3: Google Cloud Fundamentals: Getting Started with App Engine.</summary>
+  <summary>Lab 4: Google Cloud Fundamentals: Getting Started with App Engine.</summary>
   <img src="screenshots/Getting Started with App Engine.png">
 </details>
 
 <details>
-  <summary>Lab 4: Google Cloud Fundamentals: Getting Started with BigQuery.</summary>
+  <summary>Lab 5: Google Cloud Fundamentals: Getting Started with BigQuery.</summary>
   <img src="screenshots/Getting Started with BigQuery.png">
 </details>
 
 <details>
-  <summary>Lab 5: VPC Networking.</summary>
+  <summary>Lab 6: VPC Networking.</summary>
   <img src="screenshots/VPC Networking.png">
 </details>
 
 <details>
-  <summary>Lab 6: Implementing Cloud SQL.</summary>
+  <summary>Lab 7: Implementing Cloud SQL.</summary>
   <img src="screenshots/Implementing Cloud SQL.png">
 </details>
 
 <details>
-  <summary>Lab 7: Creating Virtual Machines.</summary>
+  <summary>Lab 8: Creating Virtual Machines.</summary>
   <img src="screenshots/Creating Virtual Machines.png">
 </details>
 
 <details>
-  <summary>Lab 8: Working with Virtual Machines.</summary>
+  <summary>Lab 9: Working with Virtual Machines.</summary>
   <img src="screenshots/Working with Virtual Machines.png">
 </details>
 
 <details>
-  <summary>Lab 9: Infrastructure Preview.</summary>
+  <summary>Lab 10: Infrastructure Preview.</summary>
   <img src="screenshots/Infrastructure Preview.png">
 </details>
 
 <details>
-  <summary>Lab 10: Console and Cloud Shell.</summary>
+  <summary>Lab 11: Console and Cloud Shell.</summary>
   <img src="screenshots/Console and Cloud Shell.png">
 </details>
+
 
 
 ## TRANSLATION CODE
